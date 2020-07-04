@@ -15,4 +15,6 @@ The main aim is to give the opportunity to new joiners, or people in the field t
 
 Seesion #2 | Courses
 
+Test for updating Draft branch
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DaThabor/LiveMentoring/master)
