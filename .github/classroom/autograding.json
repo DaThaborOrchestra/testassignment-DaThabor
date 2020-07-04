@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "assing \"hello word\" to var (variable) and print var",
+      "setup": "",
+      "run": "print(var)",
+      "input": "var = \"hello world\"",
+      "output": "\"hello world\"",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
