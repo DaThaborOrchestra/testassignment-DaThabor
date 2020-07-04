@@ -12,3 +12,5 @@ Session #1 | Introduction
 
 This session is a short video with my introduction and explanation about how the series will work. The aim is to have 2 sessions per month, where I will be explaining a specific topic in more detail. There were needed, I might invite other speakers to join in to give a more and better detailed explanation.
 The main aim is to give the opportunity to new joiners, or people in the field that would like to refresh specific areas.
+
+Seesion #2 | Courses
