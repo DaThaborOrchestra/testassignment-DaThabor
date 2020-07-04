@@ -14,3 +14,5 @@ This session is a short video with my introduction and explanation about how the
 The main aim is to give the opportunity to new joiners, or people in the field that would like to refresh specific areas.
 
 Seesion #2 | Courses
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DaThabor/LiveMentoring/master)
