@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "assing",
+      "name": "assing \"hello word\" to var (variable) and print var",
       "setup": "",
       "run": "print(var)",
       "input": "var = \"hello world\"",
